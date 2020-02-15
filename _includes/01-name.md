@@ -1,1 +1,7 @@
-Replace this with your name, and include a header.
+My name is Robert Alexander Taylor, and these are all my headers.
+# This is an <h1> header, which is the largest
+## This is an <h2> header
+### This is an <h3> header
+#### This is an <h4> header
+##### This is an <h5> header
+###### This is an <h6> header, which is the smallest
